@@ -40,6 +40,9 @@ height: 500px;
 border-radius: 20px;
 box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.308);
 
+transition: width 0.3s, height 0.3s;/*Faz uma tipo uma animação na transição de telas*/
+transition-timing-function: ease; /*Suavisa a animação*/
+
 }
 
 
